@@ -1,0 +1,16 @@
+1. Can you explain the copy (cp ../temp-* .) command used above?
+
+This command copies all files from the parent directory whose names begin with "temp-" into your current directory.
+
+2. Can you explain why, in this case, we did not have to do git init?
+
+We Don't have to create a new repository because it is already create we just add some files in a directory
+
+3. Can you commit the files copied? What do you need to do?
+
+Yes we can commit the files copied by doing:
+git add temp-average.py
+git add temp-doc.txt
+git add temp-data.csv
+and after
+git commit -"add files"
