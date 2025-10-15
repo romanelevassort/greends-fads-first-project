@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 “There are people like Senhor José everywhere, who fill their time, or
 what they believe to be their spare time, by collecting stamps, coins,
 medals, vases, postcards, matchboxes, books, clocks, sport shirts,
 autographs, stones, clay figurines, empty beverage cans, little angels,
+=======
+“There are people like Senhor José everywhere, who fill their tiem, or
+what they believe to be their spare time, by collecting stmps, coins,
+medals, vases, postcards, matchboxes, boks, clocks, sport shirts,
+autographs, stones, clay figurines, empty beverge cans, little angels,
+>>>>>>> 864a7e5197a4c79ad661002c5bec87cb1a68b729
 cacti, opera programmes, lighters, pens, owls, music boxes, botles, bonsai
 trees, paintings, mugs, pipes, glass obelisks, ceramic duccks, old toys,
 carnival masks, and they probably do so out of something that we might
